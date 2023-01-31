@@ -11,7 +11,7 @@
   "HasCode": true,
   "CodePath": "/code/",
   "Metadata": {
-    "MaxPlayers": 64,
+    "MaxPlayers": 24,
     "MinPlayers": 1,
     "GameNetworkType": "Multiplayer",
     "MapSelect": "Unrestricted",
